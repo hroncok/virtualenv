@@ -5,6 +5,14 @@ Release History
 
 .. towncrier release notes start
 
+v20.21.2 (2025-12-10)
+---------------------
+
+Features - 20.21.2
+~~~~~~~~~~~~~~~~~~
+- Embed pip ``25.3`` for Python 3.15 support - by :user:`hroncok`.
+
+
 v20.21.1 (2023-04-19)
 ---------------------
 
